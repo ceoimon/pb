@@ -52889,14 +52889,16 @@
 	      _react2.default.createElement(
 	        'p',
 	        { className: 'little-title' },
-	        '\u5FAE\u4FE1\u626B\u4E00\u626B'
+	        '\u5FAE\u4FE1\u957F\u6309\u626B\u7801'
 	      ),
 	      _react2.default.createElement(
 	        'p',
 	        { className: 'slogan' },
-	        '\u5173\u6CE8',
+	        '\u52A0\u5165',
 	        _data.goods[id - 1].person,
-	        '\u7684\u5FAE\u4FE1\u7FA4\uFF0C\u652F\u6301\u4ED6/\u5979\u81EA\u52A9'
+	        '\u7C89\u4E1D\u7FA4\uFF0C\u4E00\u8D77\u5E2E\u52A9',
+	        _data.goods[id - 1].person,
+	        '\uFF01'
 	      ),
 	      _react2.default.createElement('img', { src: _data.goods[id - 1].qrcode, alt: '\u65E0\u6CD5\u663E\u793A\u4E8C\u7EF4\u7801' })
 	    ),
