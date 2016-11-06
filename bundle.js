@@ -77,6 +77,8 @@
 	
 	var rootElement = document.getElementById('root');
 	
+	_onsenui2.default.disableAutoStyling();
+	
 	_onsenui2.default.ready(function () {
 	  return (0, _reactDom.render)(_react2.default.createElement(
 	    _reactHotLoader.AppContainer,
